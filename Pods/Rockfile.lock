@@ -1,0 +1,51 @@
+version_locks:
+  RxCocoa:
+    binary: false
+    checksum: 32065309a38d29b5b0db858819b5bf9ef038b601
+    compile_sources_count: 117
+    dev: false
+    source_code:
+      git: https://github.com/ReactiveX/RxSwift.git
+      tag: 5.1.1
+    spec: https://github.com/CocoaPods/Specs.git
+    version: 5.1.1
+  RxRelay:
+    binary: false
+    checksum: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+    compile_sources_count: 4
+    dev: false
+    source_code:
+      git: https://github.com/ReactiveX/RxSwift.git
+      tag: 5.1.1
+    spec: https://github.com/CocoaPods/Specs.git
+    version: 5.1.1
+  RxSwift:
+    binary: false
+    checksum: 81470a2074fa8780320ea5fe4102807cb7118178
+    compile_sources_count: 150
+    dev: false
+    source_code:
+      git: https://github.com/ReactiveX/RxSwift.git
+      tag: 5.1.1
+    spec: https://github.com/CocoaPods/Specs.git
+    version: 5.1.1
+  SnapKit:
+    binary: false
+    checksum: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+    compile_sources_count: 36
+    dev: false
+    source_code:
+      git: https://github.com/SnapKit/SnapKit.git
+      tag: 5.0.1
+    spec: https://github.com/CocoaPods/Specs.git
+    version: 5.0.1
+
+binary_info:
+  binary: 0
+  rate: 0.0
+  source: 4
+
+source_info:
+  dev: 0
+  rate: 0.0
+  total: 307
