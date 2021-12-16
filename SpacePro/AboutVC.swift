@@ -2,7 +2,7 @@
 //  AboutVC.swift
 //  SpacePro
 //
-//  Created by XiaorAx on 2021/11/13.
+//  Created by Ziwen Wang on 2021/11/13.
 //
 
 import Foundation

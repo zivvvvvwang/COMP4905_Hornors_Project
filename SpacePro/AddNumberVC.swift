@@ -2,7 +2,7 @@
 //  AddNumberVC.swift
 //  SpacePro
 //
-//  Created by XiaorAx on 2021/11/11.
+//  Created by Ziwen Wang on 2021/11/11.
 //
 
 import Foundation
@@ -25,7 +25,7 @@ class AddNumberVC: UIViewController {
     
     var offset:CGFloat = 0
     
-    var menus: [String] = ["Credit Card", "Website password", "email", "height/weight"]
+    var menus: [String] = ["Credit Card", "Website password", "Email", "Height/Weight"]
     var map:[String:[String]] = [
         "Credit Card":["Bank", "No", "ex date", "cvv", "password"],
         "Website password":["web name", "username", "password"],

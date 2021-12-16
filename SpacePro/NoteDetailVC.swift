@@ -2,7 +2,7 @@
 //  NoteDetailVC.swift
 //  SpacePro
 //
-//  Created by XiaorAx on 2021/11/7.
+//  Created by Ziwen Wang on 2021/11/7.
 //
 
 import UIKit

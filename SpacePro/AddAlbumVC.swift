@@ -2,7 +2,7 @@
 //  AddAlbumVC.swift
 //  SpacePro
 //
-//  Created by XiaorAx on 2021/10/10.
+//  Created by Ziwen Wang on 2021/10/10.
 //
 
 import Foundation

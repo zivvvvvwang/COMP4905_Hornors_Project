@@ -2,7 +2,7 @@
 //  NumberDetailVC.swift
 //  SpacePro
 //
-//  Created by XiaorAx on 2021/11/13.
+//  Created by Ziwen Wang on 2021/11/13.
 //
 
 import Foundation
@@ -12,7 +12,7 @@ class NumberDetailVC: UIViewController {
     
     var offset:CGFloat = 0
     
-    var menus: [String] = ["Credit Card", "Website password", "email", "height/weight"]
+    var menus: [String] = ["Credit Card", "Website password", "Email", "Height/Weight"]
     var map:[String:[String]] = [
         "Credit Card":["Bank", "No", "ex date", "cvv", "password"],
         "Website password":["web name", "username", "password"],
