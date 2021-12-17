@@ -12,7 +12,7 @@ class NumberDetailVC: UIViewController {
     
     var offset:CGFloat = 0
     
-    var menus: [String] = ["Credit Card", "Website password", "Email", "Height/Weight"]
+    var menus: [String] = ["Credit Card", "Website password", "email", "height/weight"]
     var map:[String:[String]] = [
         "Credit Card":["Bank", "No", "ex date", "cvv", "password"],
         "Website password":["web name", "username", "password"],
